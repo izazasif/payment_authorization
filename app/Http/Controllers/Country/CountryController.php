@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Controller;
+namespace App\Http\Controllers\Country;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Models\CountryModel;
+use App\Model\CountryModel;
 
 class CountryController extends Controller
 {
